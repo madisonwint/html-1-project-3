@@ -1,0 +1,23 @@
+body {
+    background-color: #D6E4F5;
+}
+
+h1 {
+    font: 45px Rubik;
+    color: #003366;
+    background-color: #F5F1D6;
+    width: 50%;
+    padding-left: 60px;
+    border: hidden;
+    border-radius: 12px;
+}
+
+
+a {
+    text-decoration: none;
+    padding: 25px 25px 25px 25px
+}
+
+ul {
+    list-style-type: none;
+}
