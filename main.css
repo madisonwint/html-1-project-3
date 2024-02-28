@@ -50,3 +50,17 @@ footer {
     font-family: "Clash Display";
     color: #AED9E0;
 }
+
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 80px;
+  margin-left: 13px;
+}
+
+.two {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-right: 80px;
+      margin-left: -10px;
+}
