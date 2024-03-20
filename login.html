@@ -7,8 +7,26 @@
 </head>
 <h1> Log into your account </h1>
     <p> username: </p>
+    <form action = "/submit-form">
+        <label for = "username"> Username: </label>
+        <input type = "text" id = "username" name = "username" placeholder = "username" /> <br></br>
+        
+    <label for = "user ideas"> Username Ideas: </label>
+    <textarea id = "user ideas" name = "user ideas" rows = "5" cols = "33"></textarea>
+
+        
     <p> password: </p>
+        <form action = "/submit-form">
+            <label for = "password"> Password: </label>
+            <input type = "text" id = "password" name = "password" placeholder = "password" /> <br><br>
+
+        <label for = "complete log in"> Log into your account</label>
+        <input type = "checkbox" id = "log in" name = "log in" /><br><br>
+        <input type = "Submit" value = "Log In" href = "profile.html">
+    </form>
     </body>
+
+    
 
     <p class = "two"> <a href = "profile.html"> log in! </a></p>
 </html>
